@@ -1,0 +1,1 @@
+A personal smart diary that reflects your emotional journey.
